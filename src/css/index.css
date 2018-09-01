@@ -1,1 +1,1 @@
-body{background:#ff0}
+*{margin:0;padding:0}body,html{width:100%;height:100%;overflow:hidden}.wrap{width:100%;height:100%;overflow:hidden;display:flex;flex-direction:column}header{width:100%;height:44px;background:#eee;position:relative}.result{width:100%;position:absolute;top:44px;background:#fff;z-index:9}.result li{width:100%;height:44px;border-bottom:1px solid gray}.con{width:100%;flex:1;overflow-y:auto}.con .swiper-container{width:100%}.con .swiper-container img{width:100%}footer{width:100%;height:44px;background:#eee}
